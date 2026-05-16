@@ -1,3 +1,5 @@
 {
-  "status" : "Hello World"
+  "title" : "Welcome This is Title",
+  "msg" : "This is an Message",
+  "cancleable" : false
 }
